@@ -60,3 +60,6 @@ This project analyzes global electronics retail data to uncover insights into:
 - Provided store optimization insights
 
 
+## Data Source
+The datasets used in this project are publicly available and used strictly for educational purposes.
+
